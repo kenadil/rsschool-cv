@@ -56,6 +56,9 @@ let me = {
 <summary><b>Code examples</b><br></summary>
 <div>
 <br>
+  
+[![kenadil's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=kenadil&repo=analytics_site&theme=dracula)](https://github.com/kenadil/analytics_site)
+[![kenadil's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=kenadil&repo=onetech-react&theme=dracula)](https://github.com/kenadil/onetech-react)
  
 </div>
 </details>
