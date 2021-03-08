@@ -33,3 +33,29 @@ let me = {
   isGhoul: false,
 }
 ```
+---
+
+<details>
+<summary><b>Github Stats</b><br></summary>
+<div>
+<br>
+ 
+[![kenadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenadil&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+</details>
+
+<details>
+<summary><b>Work experience</b><br></summary>
+<div>
+<br>
+<img src="https://i.ibb.co/p23k1HH/image-2021-03-07-134225.png" alt="work experience" width="100%" align="center">
+</div>
+</details>
+
+<details>
+<summary><b>Code examples</b><br></summary>
+<div>
+<br>
+ 
+</div>
+</details>
